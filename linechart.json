@@ -1,0 +1,122 @@
+﻿{
+  "data": [
+    {
+      "timestamp": 1,
+      "luminosity": 35,
+      
+      "humidity": 72
+    },
+    {
+      "timestamp": 2,
+      "luminosity": 35,
+      "humidity": 75
+    },
+    {
+      "timestamp": 3,
+      "luminosity": 45,
+      "humidity": 85
+    },
+    {
+      "timestamp": 4,
+      "luminosity": 55,
+      "humidity": 75
+    },
+    {
+      "timestamp": 5,
+      "luminosity": 65,
+      "humidity": 76
+    }, 
+    {
+      "timestamp": 6, "luminosity": 75, "humidity": 76  },
+    {
+      "timestamp": 7,
+      "luminosity": 90,
+      "humidity": 84
+    },
+    {
+      "timestamp": 8,
+      "luminosity": 92,
+      "humidity": 85
+    },
+    {
+      "humidity": 86,
+      "luminosity": 95,
+      "timestamp": 9
+    },
+    {
+      "timestamp": 10,
+      "luminosity": 100,
+      "humidity": 89
+    },
+    {
+      "timestamp": 11,
+      "luminosity": 100,
+      "humidity": 90
+    },
+    {
+      "timestamp": 12,
+      "luminosity": 100,
+      "humidity": 75
+    },
+    {
+      "timestamp": 13,
+      "luminosity": 100,
+      "humidity": 80
+    },
+    {
+      "timestamp": 14,
+      "luminosity": 99,
+      "humidity": 85
+    },
+    {
+      "timestamp": 15,
+      "luminosity": 99,
+      "humidity": 89
+    },
+    {
+      "timestamp": 16,
+      "luminosity": 95,
+      "humidity": 95
+    },
+    {
+      "timestamp": 17,
+      "luminosity": 85,
+      "humidity": 98
+    },
+    {
+      "timestamp": 18,
+      "luminosity": 80,
+      "humidity": 75
+    },
+    {
+      "timestamp": 19,
+      "luminosity": 60,
+      "humidity": 95
+    },
+    {
+      "timestamp": 20,
+      "luminosity": 53,
+      "humidity": 95
+    },
+    {
+      "timestamp": 21,
+      "luminosity": 55,
+      "humidity": 95
+    },
+    {
+      "timestamp": 22,
+      "luminosity": 45,
+      "humidity": 95
+    },
+    {
+      "timestamp": 23,
+      "luminosity": 35,
+      "humidity": 95
+    },
+    {
+      "timestamp": 24,
+      "luminosity": 35,
+      "humidity": 95
+    }
+  ]
+}

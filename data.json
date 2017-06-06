@@ -1,0 +1,35 @@
+﻿{
+  "data": [
+    {
+      "month": "July",
+      "genre": "Internship",
+      "intake": 50,
+      "stream": "PLM"
+    },
+    {
+      "month": "August",
+      "genre": "Internship",
+      "intake": 36,
+      "stream": "ENGNWC ReSkill"
+    },
+    {
+      "month": "September",
+      "genre": "Internship",
+      "intake": 50,
+      "stream": "ENGNWC with C++"
+    },
+    {
+      "month": "September",
+      "genre": "Diploma",
+      "intake": 50,
+      "stream": "ENGNWC with C++"
+    },
+       {
+      "month": "July",
+      "genre": "Diploma",
+      "intake": 30,
+      "stream": "ENGNWC with C++"
+    }
+  ]
+
+}

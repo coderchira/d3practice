@@ -1,0 +1,53 @@
+﻿{
+  "internship": [
+    {
+      "date": "July",
+      "number": 6,
+      "du": "PLM"
+    },
+    {
+      "date": "August",
+      "number": 20,
+      "du": "ENG Mech PD"
+    },
+    {
+      "date": "July",
+      "number": 50,
+      "du": "ENGNWC with C++"
+    }
+  ],
+  "diploma": [
+    {
+      "date": "August",
+      "number": 34,
+      "du": "ENGNWC ReSkill"
+    },
+    {
+      "date": "August",
+      "number": 35,
+      "du": "ENG Mech PD"
+    },
+    {
+      "date": "September",
+      "number": 67,
+      "du": "ENGNWC with C++"
+    }
+  ],
+  "foundation": [
+    {
+      "date": "August",
+      "number": 45,
+      "du": "ENGNWC with C++"
+    },
+    {
+      "date": "September",
+      "number": 20,
+      "du": "ENG Mech PD"
+    },
+    {
+      "date": "July",
+      "number": 50,
+      "du": "PLM"
+    }
+  ]
+}
